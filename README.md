@@ -9,8 +9,14 @@ Please contribute to make this list really awesome! :)
 ## MYSQL
 ## POSTGRESQL 
 * http://www.ibm.com/developerworks/opensource/library/os-postgresecurity/index.html
-* 
-
+* https://www.owasp.org/index.php/OWASP_Backend_Security_Project_PostgreSQL_Hardening
+## Oracle
 
 # Servers
-# Web applications
+## Linux
+## Windows
+
+# Web applications / Web frameworks
+## Django
+## RoR
+##
